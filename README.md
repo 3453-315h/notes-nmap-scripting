@@ -1,16 +1,6 @@
 # notes-nmap-scripting
 Notes i gathered after reading Practical Web Penetration Testing - Gus Khawaja. Service probing and enumeration In the preceding step, we used the Nmap script to quickly probe each service that we found. In this step, we will take this information to the next step and try to probe aggressively. The Nmap scripts that we will use in the following examples are both very aggressive and time-consuming: 
 
-<p style='color:red'>This is some red text.</p>
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
-
 Gus-khawaja-pratical-web-penetration-testing.pdf
 Service probing and enumeration In the preceding step, we used the Nmap script to quickly probe each service that we found. In this step, we will take this information to the next step and try to probe aggressively. The Nmap scripts that we will use in the following examples are both very aggressive and time-consuming: 
 
